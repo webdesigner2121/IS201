@@ -19,8 +19,8 @@ a:visited{
 .underline{ text-decoration: underline;}
 
 .scratchbg{
-    background-image: url(../f1.jpeg)
-}
+    background-color: lightgray;
+    
 
 .common{
     border: 2px solid black; 
