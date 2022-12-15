@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a{color: navy}
+
+a:visited{
+    color: blue
+}
+.vettelheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{ text-decoration: underline;}
+
+.scratchbg{
+    background-image: url(../f1.jpeg)
+}
+
+.common{
+    border: 2px solid black; 
+    
+}
